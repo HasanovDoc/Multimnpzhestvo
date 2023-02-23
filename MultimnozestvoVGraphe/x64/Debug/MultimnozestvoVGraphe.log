@@ -1,0 +1,16 @@
+﻿  MultimnozestvoVGraphe.cpp
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(43,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(53,23): warning C4244: +=: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(87,29): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(109,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(116,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\MultimnozestvoVGraphe\MultimnozestvoVGraphe.cpp(20,10): warning C4101: thread_range: неиспользованная локальная переменная
+  MultimnozestvoVGraphe.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\MultimnozestvoVGraphe — копия\x64\Debug\MultimnozestvoVGraphe.exe
